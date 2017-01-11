@@ -20,7 +20,9 @@ guide.
 
 ##Usage
 
-Run `demo.py` to create a new image with the detected strawberry. The last 3 lines at the bottom of demo.py let you
+Run 
+`python demo.py` 
+to create a new image with the detected strawberry. The last 3 lines at the bottom of demo.py let you
 define the input image name and the output image name. This detection takes a split second. Deep learning would be more 
 accurate but requires more computation currently. Sometimes you just need to quickly detect an image and don't 
 mind handcrafted which features to look for.
